@@ -1,0 +1,3 @@
+git config --global user.name 'aif5323'
+git config --global user.email 'aif5323@psu.edu'
+git config --global --list
